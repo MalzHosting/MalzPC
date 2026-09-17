@@ -4,7 +4,7 @@
 
     <application
         android:theme="@style/AppTheme"
-        android:label="Malz PC"
+        android:label="Malz Code"
         android:hardwareAccelerated="true">
 
         <activity

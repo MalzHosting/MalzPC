@@ -45,7 +45,7 @@ public class MainActivity extends Activity {
 
         setContentView(webView);
 
-        webView.loadUrl(
+        webView.loadUrl("https://fare-per-cars-quantity.trycloudflare.com");
             "https://latino-philosophy-arts-housing.trycloudflare.com"
         );
     }
